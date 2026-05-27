@@ -8,7 +8,6 @@ This project provides a rigorous framework for decision-making under constraints
 ## Project Structure
 - `Life_Improvement.ipynb`: Jupyter notebook containing the full mathematical modeling and implementation.
 - `Life_Improvement_Report.pdf`: The final technical summary of the optimization models and findings.
-- `Life Improvement.pdf`: The original assignment documentation.
 
 ## Key Phases
 1. **Dietary Optimization (Linear Programming):** Minimized total daily expenditure while satisfying strict nutritional requirements (protein, carbohydrates, fats, vitamins) for 10 distinct food items.
